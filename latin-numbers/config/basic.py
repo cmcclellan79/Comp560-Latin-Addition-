@@ -14,7 +14,7 @@ dropout = 0.1
 # training
 batch_size = 64
 block_size = 64  # context length
-max_iters = 200  # start with 200 for quick test, then change to 2000
+max_iters = 2000  # start with 200 for quick test, then change to 2000
 
 # learning rate
 learning_rate = 1e-3
